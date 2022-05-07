@@ -1,8 +1,9 @@
-# Hello, this is repository for AUVBteam Freshers
+# Suyash2, clone, collab check
 
-# Save you assignments here
+# Collab Check done!
 
-# Create your branch then upload individual assignments over it
+# Sequence 1
+
 
 
 
